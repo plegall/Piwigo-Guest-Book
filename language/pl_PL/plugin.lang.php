@@ -36,3 +36,5 @@ $lang['Guests (not registered) permissions :'] = 'Uprawnienia Gości (nie zareje
 $lang['add comment'] = 'dodawanie komentarzy';
 $lang['view comments'] = 'oglądanie komentarzy';
 $lang['Add link in menu'] = 'Dodaj link do menu';
+$lang['Rate'] = 'Oceń';
+$lang['Send'] = 'Wyślij';
