@@ -37,3 +37,4 @@ $lang['not publicly visible'] = 'viešai nerodomas';
 $lang['view comments'] = 'skaityti komentarus';
 $lang['Rate'] = 'Įvertinti';
 $lang['Send'] = 'Siųsti';
+$lang['Add link in menu'] = 'Pridėti nuorodą į meniu';
